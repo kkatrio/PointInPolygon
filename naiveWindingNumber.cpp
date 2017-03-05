@@ -147,7 +147,7 @@ int main()
 
 
 
-
+    /*
     cout<<"test5 - point inside - no clockwise order\n";
 
     Point P5(0.5,0.0);
@@ -212,7 +212,7 @@ int main()
 
     cout<<"sum of angles:"<< calcSumsOfAngles(Verts,P8)<<endl;
     cout<<"---------\n";
-
+    */
 
 
     return 0;
